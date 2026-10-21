@@ -2,6 +2,8 @@
 
 **Mobil uygulamalar · Web geliştirme · Makine öğrenmesi**
 
+[Portföy sitem →](https://abdullatif171.github.io/Abdullatif171/)
+
 Flutter/Dart ile mobil uygulamalar, ASP.NET Core ile web projeleri geliştiriyorum. Python ile metin işleme, görüntü sınıflandırma ve oyun geliştirme üzerine çalışıyorum.
 
 ## Çalışma alanlarım
